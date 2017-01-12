@@ -2,7 +2,7 @@ package first;
 
 public class Person {
 	int[] data = { 0, 4, 23, 84 };
-	int sum = 0;
+	int sum = 10;
 	public void display() {
 		
 		System.out.println("Data: ");
