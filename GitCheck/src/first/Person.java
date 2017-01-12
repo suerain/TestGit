@@ -10,7 +10,7 @@ public class Person {
 			System.out.println("Next value: " + i);
 			sum += i;
 		}
-		System.out.println("Sum is:  " + sum);
+		System.out.println("Sum is found to be: " + sum);
 	}
 
 }
