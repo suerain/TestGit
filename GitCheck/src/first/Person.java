@@ -12,7 +12,7 @@ public class Person {
 			System.out.println("Next value: " + data[i]);
 			sum += data[i];
 		}
-		System.out.println("Sum is: " + sum);
+		System.out.println("Sum is:  " + sum);
 	}
 
 }
