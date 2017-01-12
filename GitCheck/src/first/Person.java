@@ -1,7 +1,7 @@
 package first;
 
 public class Person {
-	int[] data = { -1, 0, 4, 23, 84 };
+	int[] data = { 0, 4, 23, 84 };
 	int sum = 0;
 	public void display() {
 		
